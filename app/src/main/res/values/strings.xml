@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Art Type</string>
+    <string name="pop_art">Pop Art</string>
+    <string name="oil_art">Oil Art</string>
+    <string name="digital_art">Digital Art</string>
+    <string name="abstract_art">Abstract Art</string>
+    <string name="watercolor_art">Watercolor Art</string>
+    <string name="polygon_art">Polygon Art</string>
+    <string name="mosaic_art">Mosaic Art</string>
+    <string name="Guess">Guess The Art Type </string>
+    <string name="show_answer">Show The Answer </string>
+    <string name="share_photo">Share </string>
+    <string name="answer"> The Answer </string>
+    <string name="back">Back </string>
+    <string name="change_language">change The language </string>
+
+
+
+
+
+    <string-array name="ArtType">
+        <item>Pop Art</item>
+        <item>Abstract Art</item>
+        <item>DarckSoual Art</item>
+        <item>Digital Art</item>
+        <item>Mosaic Art</item>
+        <item>Oil Art</item>
+        <item>Polygon Art</item>
+    </string-array>
+
+
+    <string-array name="Language">
+        <item>English</item>
+        <item>العربية</item>
+        <item>الفارسی</item>
+    </string-array>
+
+
+</resources>

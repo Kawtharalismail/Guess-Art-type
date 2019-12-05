@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">نوع الفن</string>
+    <string name="pop_art">فن البوب</string>
+    <string name="oil_art">فن الالوان الزيتية</string>
+    <string name="digital_art">الفن الرقمي</string>
+    <string name="abstract_art">الفن التجريدي</string>
+    <string name="watercolor_art">فن الالوان المائية </string>
+    <string name="polygon_art">فن البوليغون</string>
+    <string name="mosaic_art">فن الفسيفساء</string>
+    <string name="Guess">خمن نوع الفن </string>
+    <string name="show_answer">الاجابة </string>
+    <string name="share_photo">ارسال  </string>
+    <string name="answer"> الاجابة </string>
+    <string name="back">الرجوع </string>
+    <string name="change_language">تغيير اللغة </string>
+
+
+
+
+
+    <string-array name="ArtType">
+        <item>فن البوب</item>
+        <item>الفن التجريدي</item>
+        <item>الفن المظلم</item>
+        <item>الفن الرقمي</item>
+        <item>فن الفسيفساء</item>
+        <item>فن الالوان الزيتية</item>
+        <item>فن البوليغون</item>
+    </string-array>
+
+
+</resources>

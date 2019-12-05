@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name"> نوع هنر</string>
+    <string name="pop_art">Pop Art</string>
+    <string name="oil_art">Oil Art</string>
+    <string name="digital_art">Digital Art</string>
+    <string name="abstract_art">Abstract Art</string>
+    <string name="watercolor_art">Watercolor Art</string>
+    <string name="polygon_art">Polygon Art</string>
+    <string name="mosaic_art">Mosaic Art</string>
+    <string name="Guess">نوع هنر را حدس بزن </string>
+    <string name="show_answer"> پاسخ</string>
+    <string name="share_photo">ارسال </string>
+    <string name="answer"> پاسخ </string>
+    <string name="back">برگشت </string>
+    <string name="change_language">تغيير زبان </string>
+
+
+
+
+
+    <string-array name="ArtType">
+        <item>هنر پاپ </item>
+        <item>هنر انتزاعی</item>
+        <item>هنر تاریک</item>
+        <item>هنر دیجیتال</item>
+        <item>هنر موزاییک</item>
+        <item>هنر رنگ روغن</item>
+        <item>هنر چند ضلعی</item>
+    </string-array>
+
+
+</resources>
